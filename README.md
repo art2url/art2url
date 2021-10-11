@@ -1,3 +1,3 @@
-LinkedIn | Codewars
+Profiles
 ------------ | -------------
-[Click me](https://www.linkedin.com/in/artem-turlenko) | [Click me](https://www.codewars.com/users/art2url)
+[LinkedIn](https://www.linkedin.com/in/artem-turlenko) | [Codewars](https://www.codewars.com/users/art2url)
