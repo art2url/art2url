@@ -16,7 +16,9 @@ Welcome to my GitHub profile! I love solving problems, building scalable apps, a
 
 ## 🛠️ Social Activities and Products I’ve Created
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/artem_turlenko)
+
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/feooahdkcaofafmebcopdkpahbabdele)
+
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-SolveSync%20Chrome%20Extension-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/posts/solvesync-chrome-extension)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DevTaskFlow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/devtaskflow)
 
