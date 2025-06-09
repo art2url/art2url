@@ -22,7 +22,14 @@ Welcome to my GitHub profile! I love solving problems, building scalable apps, a
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-SolveSync%20Chrome%20Extension-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/posts/solvesync-chrome-extension)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DevTaskFlow-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/devtaskflow)
 
+---
+
+<div align="left">
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art2url&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
 Let's collaborate on exciting projects and innovate together!
+
