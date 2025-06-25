@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Artem Turlenko  
 
-**Software Developer | Full-Stack Enthusiast | UI/UX Designer**
+**Software Developer | Full-Stack & UI/UX**
 
 Welcome to my GitHub profile! I love solving problems, building scalable apps, and exploring new technologies.
 
