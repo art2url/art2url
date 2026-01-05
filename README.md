@@ -34,7 +34,7 @@ Experienced software developer specializing in scalable web applications and use
 ## Technical Stack Overview
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art2url&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=art2url&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
