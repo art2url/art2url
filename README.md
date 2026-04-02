@@ -1,10 +1,20 @@
 # Artem Turlenko
-**Full-Stack Software Developer | UI/UX Designer**
+**QA Engineer | Full-Stack Developer | UI/UX Designer**
 
-Experienced software developer specializing in scalable web applications and user-centered design. Passionate about creating innovative solutions that bridge technical excellence with exceptional user experiences.
+Full-Stack Developer with hands-on QA experience — I know how apps are built, which makes me better at breaking them.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-atpro.dev-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://atpro.dev/)
 
+---
 
+## QA Toolkit
+**Tools:** `Cypress` `Selenium` `Jest` `Jasmine` `Playwright` `Postman` `Python` `Jira`  
+**Methods:** `TDD` `BDD` `Smoke` `Regression` `E2E` `Unit Testing` `Manual Testing`
+
+## Developer Toolkit
+**Frontend:** `Angular` `React` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3/SCSS`  
+**Backend:** `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Socket.IO` `REST APIs`  
+**Tools:** `Git` `Docker` `Webpack` `VS Code` `Figma` `Chrome DevTools`
 
 ---
 
@@ -21,7 +31,8 @@ Experienced software developer specializing in scalable web applications and use
 ---
 
 ## Professional Network
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-turlenko) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-turlenko)
+[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Artem_Turlenko)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/turlenko)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/artem_turlenko)
 
