@@ -7,8 +7,8 @@ Full-Stack Developer with experience across the entire development cycle, includ
 ## Developer Toolkit
 **Frontend:** `Angular` `React` `Next.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3/SCSS`  
 **Backend:** `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Socket.IO` `REST APIs`  
-**Testing:** `Cypress` `Selenium` `Jest` `Jasmine` `Postman` `Python` `Jira`
-**Tools:** `Git` `Docker` `Webpack` `VS Code` `Figma` `Chrome DevTools`
+**Testing:** `Cypress` `Selenium` `Jest` `Jasmine` `Postman` `Python` `Jira`  
+**Tools:** `Git` `Docker` `Webpack` `VS Code` `Figma` `Chrome DevTools`  
 
 ---
 
