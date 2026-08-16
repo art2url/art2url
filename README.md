@@ -1,4 +1,4 @@
-**AI Automation Engineer** with a software engineering background — building AI-powered workflows, agent systems, RAG pipelines, and API integrations.
+**AI Automation Engineer** with a software engineering background, building AI-powered workflows, agent systems, RAG pipelines, and API integrations.
 
 Focused on reliable automation, self-hosted and cloud infrastructure, LLM orchestration, and evaluation-driven AI systems.
 
@@ -12,7 +12,7 @@ Focused on reliable automation, self-hosted and cloud infrastructure, LLM orches
 **Integrations:** `REST APIs` `Webhooks` `Google Workspace APIs` `Telegram Bot API`  
 **Development:** `TypeScript` `JavaScript` `Python` `Node.js` `PostgreSQL`
 
-**n8n Academy** — Foundations track completed (4 graded courses)
+Certified: **n8n Foundations** (n8n Academy)
 
 ---
 
@@ -27,11 +27,11 @@ Self-hosted RAG environment on **Qdrant, Ollama, and n8n** with a quote-grounded
 `RAG` `Qdrant` `Ollama` `n8n` `Evals` `Azure`
 
 ### Multi-Workflow AI Automation
-Unattended workflow system for scheduled data ingestion, relevance filtering, LLM analysis and classification, document generation, and Google Workspace integration — with cost-aware routing across two model tiers and a human-in-the-loop approval gate before final output.
+Unattended multi-workflow system: scheduled ingestion, LLM classification and document generation across Google Workspace, with cost-aware routing over two model tiers and a human-in-the-loop approval gate.
 `n8n` `LLM APIs` `Google Sheets` `Google Docs` `REST APIs`
 
 ### AI Customer Assistant
-Telegram assistant for a retail client: conversation memory, system-prompt-driven customer categorization, local LLM inference on self-hosted infrastructure. Built, deployed and handed over in full to the owner.
+Telegram assistant for a retail client: conversation memory and prompt-driven categorization on local LLM inference. Built, deployed and handed over in full to the owner.
 `AI Agents` `Telegram` `n8n` `Ollama` `Docker`
 
 ---
@@ -44,7 +44,7 @@ Software engineering remains the foundation behind my automation work.
 **Backend:** `Node.js` `Express.js` `PostgreSQL` `MongoDB` `REST APIs` `WebSockets` `JWT/OAuth 2.0`  
 **Engineering:** `Git` `Docker` `Jest` `Jasmine` `Cypress` `Selenium` `Postman`
 
-**[Quasar Contact](https://quasar.contact)** — sole developer of an open-source end-to-end encrypted messenger, built from scratch: three-tier architecture, RSA-OAEP/AES-GCM encryption, zero-knowledge design.
+**[Quasar Contact](https://quasar.contact)**: sole developer of an open-source end-to-end encrypted messenger, built from scratch with a three-tier architecture, RSA-OAEP/AES-GCM encryption and zero-knowledge design.
 
 ---
 
