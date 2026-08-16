@@ -21,15 +21,15 @@ Focused on reliable automation, self-hosted and cloud infrastructure, LLM orches
 ## AI Automation Projects
 
 ### [AI Agent Skills](https://github.com/art2url/career-agent-skills)
-Open-source collection of **12 reusable AI agent skills**, installable via `npx` and tool-agnostic across Claude Code, Codex, Cursor, Windsurf and Gemini CLI. Each skill is a scoped procedure with defined inputs and outputs, not a one-off prompt.
+Open-source collection of **12 reusable AI agent skills**, installable via `npx` and tool-agnostic across Claude Code, Codex, Cursor, Windsurf, and Gemini CLI. Each skill is a scoped procedure with defined inputs and outputs, not a one-off prompt.
 `AI Agents` `Agent Skills` `Developer Tools` `MIT`
 
 ### RAG & Evaluation System
-Self-hosted RAG environment on **Qdrant, Ollama and n8n** with a quote-grounded evaluation harness scoring answer groundedness and refusal behaviour on out-of-scope questions. The evals exposed retrieval bypass with fabricated citations, stale-source failures persisting across three models, and false negatives in the scorer itself. Later migrated the system to Azure and ran the same evaluation set against the cloud deployment.
+Self-hosted RAG environment on **Qdrant, Ollama, and n8n** with a quote-grounded evaluation harness scoring answer groundedness and refusal behaviour on out-of-scope questions. The evals exposed retrieval bypass with fabricated citations, stale-source failures persisting across three models, and false negatives in the scorer itself. Later migrated the system to Azure and ran the same evaluation set against the cloud deployment.
 `RAG` `Qdrant` `Ollama` `n8n` `Evals` `Azure`
 
 ### Multi-Workflow AI Automation
-Unattended workflow system for scheduled data ingestion, relevance filtering, LLM analysis and classification, document generation and Google Workspace integration — with cost-aware routing across two model tiers and a human-in-the-loop approval gate before final output.
+Unattended workflow system for scheduled data ingestion, relevance filtering, LLM analysis and classification, document generation, and Google Workspace integration — with cost-aware routing across two model tiers and a human-in-the-loop approval gate before final output.
 `n8n` `LLM APIs` `Google Sheets` `Google Docs` `REST APIs`
 
 ### AI Customer Assistant
