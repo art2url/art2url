@@ -1,5 +1,3 @@
-# Artem Turlenko
-
 **AI Automation Engineer** with a software engineering background — building AI-powered workflows, agent systems, RAG pipelines, and API integrations.
 
 Focused on reliable automation, self-hosted and cloud infrastructure, LLM orchestration, and evaluation-driven AI systems.
