@@ -64,8 +64,6 @@ Software engineering remains the foundation behind my automation work.
 [![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Artem_Turlenko)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/artem_turlenko)
 
-Based in Essen, Germany · German B2 · English fluent
-
 ---
 
 ## GitHub
