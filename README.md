@@ -69,5 +69,6 @@ Software engineering remains the foundation behind my automation work.
 ## GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=art2url&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=art2url&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
